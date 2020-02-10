@@ -1,7 +1,10 @@
 body{
-
+/* try not to leave empty selectors in your file */
 }
 
+/* all div font colors should be black excpet for div1 */
+
+/* text should be aligned center in all divs */
 #div1 {
 border: solid ; color: palevioletred;
 position: relative;
@@ -15,7 +18,7 @@ padding-left: 75pc;
     padding-left: 75pc;
 
 }
-
+/* using float left on div3 div5 and div7 would align them on the left side without a weird gap */
 #div3 {
    border: solid; color: green;
 width: 300px;
@@ -23,7 +26,7 @@ position: relative;
 
 
 }
-
+/* floating div4 and div6 to the right would align them on the right side of the page and ading padding would make them taller than div3 div5 and div7 */
 #div4 {
     border: solid; color: blue;
     width: 800px;
