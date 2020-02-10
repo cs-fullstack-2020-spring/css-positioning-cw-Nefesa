@@ -1,0 +1,54 @@
+body{
+
+}
+
+#div1 {
+border: solid ; color: palevioletred;
+
+
+}
+
+#div2 {
+    border: solid; color: gray;
+    clear: both;
+
+}
+
+#div3 {
+   border: solid; color: green;
+width: 300px;
+position: relative;
+clear: both;
+}
+
+#div4 {
+    border: solid; color: blue;
+    width: 1000px;
+    float: right;
+    
+}  
+
+#div5 {
+    border: solid; color: lightblue;
+    width: 300px;
+    position: relative;
+    clear: both; 
+    
+}  
+
+#div6 {
+    border: solid; color: purple;
+    width: 1000px;
+    float: right
+}  
+
+#div7 {
+    border: solid; color: red;
+    width: 300px;
+    clear: both;
+
+}  
+
+
+
+
